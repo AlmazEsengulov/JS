@@ -397,3 +397,126 @@ arr[8] = 'b';
 alert(arr.length);*/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Обьекты
+//Создайте объект с ключами 1, 2 и 3 и значениями 'a', 'b' и 'c'. Выведите на экран все его элементы.
+/*let obj = {1: 'a', 2: 'b', 3: 'c'};
+alert(obj[1]);
+alert(obj[2]);
+alert(obj[3]);*/
+
+
+
+//Создайте объект с ключами a, b и c и значениями 1, 2 и 3. Найдите сумму его элементов.
+/*let obj = {a: 1, b: 2, c: 3};
+console.log(obj);*/
+
+
+//Создайте объект с ключами 1a, 2b и с-с и значениями 1, 2 и 3. Найдите сумму его элементов.
+/*let obj = {'1a': 1, '2b': 2, 'c-c': 3};
+console.log(obj);*/
+
+
+
+/*let obj = {key1: 1, key2: 2, key3: 3};
+alert(obj.key1 + obj.key2 + obj.key3);*/
+
+
+/*let user = {name: 'Almaz', surname: 'Esengulov', patronymic: 'Almazovich'};
+console.log(user.name, user.surname, user.patronymic);*/
+
+
+
+
+/*let date = {yaer: 2022, month: 03, day: 15};
+console.log(date.yaer, date.month, date.day);*/
+
+
+
+
+//Создайте объект с ключами a, b и c и элементами 1, 2 и 3.
+/*let obj ={};
+obj['a'] = 1;
+obj['b'] = 2;
+obj['c'] = 3;
+console.log(obj);*/
+
+
+
+/*let arr = ['a', 'b', 'c'];
+let key = 2;
+alert(arr[key]);*/
+
+
+
+/*let arr = [1, 2, 3, 4, 5];
+let key1 = 1;
+let key2 = 2;
+alert(arr[key1] + arr[key2]);*/
+
+
+
+/*let obj = {'a': 1, 'b': 2, 'c': 3};
+let key = 'a';
+alert(obj[key]);*/
+
+
+
+/*let arr = ['1', '2', '3'];
+console.log( typeof arr[0] );*/
+
+/*let arr = ['a', 'b', 'c', 'd', 'e'];
+delete arr[1];
+delete arr[2];
+alert(arr.length);*/
+
+
+
+/*const arr = [1, 2, 3, 4, 5];
+const res = arr[1] + arr[2];
+console.log(res);*/
+
+
+
+/*let arr = [1, 2, 3, 4, 5];
+console.log(arr.length);*/
+
+
+
+/*let arr = [1, 2, 3, 4, 5];
+console.log(arr[0] + arr[1] + arr[2] + arr[3] + arr[4]);*/
+
+
+/*let arr = [1, 2, 3, 4, 5];
+console.log(arr.length);*/
+
+
+
+/*let obj = {a: 1, b: 2, c: 3};
+console.log(obj['a']);*/
+
+
+
+/*let obj = {a: 1, b: 2, c: 3};
+let key = 'a';
+console.log(obj[key]);*/
+
+
+/*let obj = {a: 1, b: 2, c: 3};
+let sum = obj['a'] + obj['b'] + obj['c'];
+console.log(sum);*/
+
+
+
